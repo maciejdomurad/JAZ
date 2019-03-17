@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.servlet.ServletException'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
